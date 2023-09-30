@@ -27,7 +27,7 @@
  - [x] 27) ATM Uygulaması | Switch - Case
  - [x] 28) TYT Puan Hesaplama | Switch-Case
  - [x] 29) Tür Dönüşümü | Type Conversion
- - [ ] 30) Debugger ve Tooltip Kullanımı
+ - [x] 30) Debugger ve Tooltip Kullanımı
  - [ ] 31) Döngülere Giriş | FOR | WHİLE | DO WHİLE
  - [ ] 32) For Döngüsü Çalışma Yapısını İnceleyelim
  - [ ] 33) For Döngüsü Örnek Yapalım
