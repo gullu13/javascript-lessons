@@ -28,7 +28,7 @@
  - [x] 28) TYT Puan Hesaplama | Switch-Case
  - [x] 29) Tür Dönüşümü | Type Conversion
  - [x] 30) Debugger ve Tooltip Kullanımı
- - [ ] 31) Döngülere Giriş | FOR | WHİLE | DO WHİLE
+ - [x] 31) Döngülere Giriş | FOR | WHİLE | DO WHİLE
  - [ ] 32) For Döngüsü Çalışma Yapısını İnceleyelim
  - [ ] 33) For Döngüsü Örnek Yapalım
  - [ ] 34) While Döngüsü Çalışma Yapısı
