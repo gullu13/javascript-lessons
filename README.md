@@ -31,7 +31,7 @@
  - [x] 31) Döngülere Giriş | FOR | WHİLE | DO WHİLE
  - [x] 32) For Döngüsü Çalışma Yapısını İnceleyelim
  - [x] 33) For Döngüsü Örnek Yapalım
- - [ ] 34) While Döngüsü Çalışma Yapısı
+ - [x] 34) While Döngüsü Çalışma Yapısı
  - [ ] 35) While Döngüsü Pratik Yapalım
  - [ ] 36) Do-While Döngüsü Çalışma Yapısı
  - [ ] 37) Do While Döngüsü Pratik Yapalım
