@@ -33,7 +33,7 @@
  - [x] 33) For Döngüsü Örnek Yapalım
  - [x] 34) While Döngüsü Çalışma Yapısı
  - [x] 35) While Döngüsü Pratik Yapalım
- - [ ] 36) Do-While Döngüsü Çalışma Yapısı
+ - [x] 36) Do-While Döngüsü Çalışma Yapısı
  - [ ] 37) Do While Döngüsü Pratik Yapalım
  - [ ] 38) Break ve Continue Kullanımı
  - [ ] 39) Çarpım Tablosu Uygulaması
