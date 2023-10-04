@@ -34,7 +34,7 @@
  - [x] 34) While Döngüsü Çalışma Yapısı
  - [x] 35) While Döngüsü Pratik Yapalım
  - [x] 36) Do-While Döngüsü Çalışma Yapısı
- - [ ] 37) Do While Döngüsü Pratik Yapalım
+ - [x] 37) Do While Döngüsü Pratik Yapalım
  - [ ] 38) Break ve Continue Kullanımı
  - [ ] 39) Çarpım Tablosu Uygulaması
  - [ ] 40) Asal Sayı Bulma Uygulaması
