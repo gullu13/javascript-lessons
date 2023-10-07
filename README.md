@@ -38,7 +38,7 @@
  - [x] 38) Break ve Continue Kullanımı
  - [x] 39) Çarpım Tablosu Uygulaması
  - [x] 40) Asal Sayı Bulma Uygulaması
- - [ ] 41) Faktoriyel Bulma Uygulaması
+ - [x] 41) Faktoriyel Bulma Uygulaması
  - [ ] 42) Armstrong Sayısı Uygulaması
  - [ ] 43) Metotlara Giriş
  - [ ] 44) Parametresiz Metot Oluşturma
