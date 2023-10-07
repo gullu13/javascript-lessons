@@ -37,7 +37,7 @@
  - [x] 37) Do While Döngüsü Pratik Yapalım
  - [x] 38) Break ve Continue Kullanımı
  - [x] 39) Çarpım Tablosu Uygulaması
- - [ ] 40) Asal Sayı Bulma Uygulaması
+ - [x] 40) Asal Sayı Bulma Uygulaması
  - [ ] 41) Faktoriyel Bulma Uygulaması
  - [ ] 42) Armstrong Sayısı Uygulaması
  - [ ] 43) Metotlara Giriş
