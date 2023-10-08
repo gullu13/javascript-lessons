@@ -39,7 +39,7 @@
  - [x] 39) Çarpım Tablosu Uygulaması
  - [x] 40) Asal Sayı Bulma Uygulaması
  - [x] 41) Faktoriyel Bulma Uygulaması
- - [ ] 42) Armstrong Sayısı Uygulaması
+ - [x] 42) Armstrong Sayısı Uygulaması
  - [ ] 43) Metotlara Giriş
  - [ ] 44) Parametresiz Metot Oluşturma
  - [ ] 45) Parametreli Metot Oluşturma
