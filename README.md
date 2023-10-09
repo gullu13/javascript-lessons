@@ -40,7 +40,7 @@
  - [x] 40) Asal Sayı Bulma Uygulaması
  - [x] 41) Faktoriyel Bulma Uygulaması
  - [x] 42) Armstrong Sayısı Uygulaması
- - [ ] 43) Metotlara Giriş
+ - [x] 43) Metotlara Giriş
  - [ ] 44) Parametresiz Metot Oluşturma
  - [ ] 45) Parametreli Metot Oluşturma
  - [ ] 46) Return İle Değer Döndürmek | Function
