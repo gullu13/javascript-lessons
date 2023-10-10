@@ -42,7 +42,7 @@
  - [x] 42) Armstrong Sayısı Uygulaması
  - [x] 43) Metotlara Giriş
  - [x] 44) Parametresiz Metot Oluşturma
- - [ ] 45) Parametreli Metot Oluşturma
+ - [x] 45) Parametreli Metot Oluşturma
  - [ ] 46) Return İle Değer Döndürmek | Function
  - [ ] 47) Harf Sayısı Uygulaması | Function
  - [ ] 48) Mükemmel Sayı Uygulaması | Function
