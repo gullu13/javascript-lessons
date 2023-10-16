@@ -44,7 +44,7 @@
  - [x] 44) Parametresiz Metot Oluşturma
  - [x] 45) Parametreli Metot Oluşturma
  - [x] 46) Return İle Değer Döndürmek | Function
- - [ ] 47) Harf Sayısı Uygulaması | Function
+ - [x] 47) Harf Sayısı Uygulaması | Function
  - [ ] 48) Mükemmel Sayı Uygulaması | Function
  - [ ] 49) 10'luk Sayıyı 2'liğe Çevirme Uygulaması
  - [ ] 50) 2'lik Sayıdan 10'luğa Çevirme Uygulaması
