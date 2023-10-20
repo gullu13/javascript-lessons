@@ -47,7 +47,7 @@
  - [x] 47) Harf Sayısı Uygulaması | Function
  - [x] 48) Mükemmel Sayı Uygulaması | Function
  - [x] 49) 10'luk Sayıyı 2'liğe Çevirme Uygulaması
- - [ ] 50) 2'lik Sayıdan 10'luğa Çevirme Uygulaması
+ - [x] 50) 2'lik Sayıdan 10'luğa Çevirme Uygulaması
  - [ ] 51) Bilgilendirme
  - [ ] 52) Dizilere(Array) Giriş
  - [ ] 53) Dizi(Array) Oluşturma
