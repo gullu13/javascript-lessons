@@ -48,7 +48,7 @@
  - [x] 48) Mükemmel Sayı Uygulaması | Function
  - [x] 49) 10'luk Sayıyı 2'liğe Çevirme Uygulaması
  - [x] 50) 2'lik Sayıdan 10'luğa Çevirme Uygulaması
- - [ ] 51) Bilgilendirme
+ - [x] 51) Bilgilendirme
  - [ ] 52) Dizilere(Array) Giriş
  - [ ] 53) Dizi(Array) Oluşturma
  - [ ] 54) Foreach Döngüsü Kullanımı | Dizi
