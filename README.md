@@ -50,7 +50,7 @@
  - [x] 50) 2'lik Sayıdan 10'luğa Çevirme Uygulaması
  - [x] 51) Bilgilendirme
  - [x] 52) Dizilere(Array) Giriş
- - [ ] 53) Dizi(Array) Oluşturma
+ - [x] 53) Dizi(Array) Oluşturma
  - [ ] 54) Foreach Döngüsü Kullanımı | Dizi
  - [ ] 55) Dizi Metotlarını Kullanma
  - [ ] 56) Ürün Arama Uygulaması | Diziler
