@@ -51,7 +51,7 @@
  - [x] 51) Bilgilendirme
  - [x] 52) Dizilere(Array) Giriş
  - [x] 53) Dizi(Array) Oluşturma
- - [ ] 54) Foreach Döngüsü Kullanımı | Dizi
+ - [x] 54) Foreach Döngüsü Kullanımı | Dizi
  - [ ] 55) Dizi Metotlarını Kullanma
  - [ ] 56) Ürün Arama Uygulaması | Diziler
  - [ ] 57) Kitap Bulma Uygulaması | Part :1 | Diziler
